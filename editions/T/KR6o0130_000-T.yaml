@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0130/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 讚法界頌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1675.xml
+    old_id: T32n1675
+hash: sha256:e70e31e9d9df4925ab0ded73a031bba50cf1d7f32ac17ac9cda046dc33e461b0

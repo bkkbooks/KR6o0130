@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6o0130/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0130/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 讚法界頌
+  identifiers:
+    krp: KR6o0130
+    cbeta: T32n1675
+    cbeta_old_id: T32n1675
+    authorityid: CA0003937
+    json_key: T1675
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1675.xml
+    old_id: T32n1675
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0130_000-T.yaml, hash: 'sha256:e70e31e9d9df4925ab0ded73a031bba50cf1d7f32ac17ac9cda046dc33e461b0'}
+  - {seq: 1, filename: KR6o0130_001-T.yaml, hash: 'sha256:55e15e305a4b61741ccacfb77cb534e54995e748461873ed3a40457ccf03f96f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0130_000-T.markers.yaml, hash: 'sha256:e5b2c075a9c8992015a68c05497c99484af471f00213156fde43473a505f466c'}
+  - {seq: 1, role: markers, filename: assets/KR6o0130_001-T.markers.yaml, hash: 'sha256:6fbee54650ee6a3cec42848ca986cdfccdd522389442ab1333b5eae3c3e82907'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0130_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1775
+  label: 讚法界頌
+  type: juan
+  level: 1
+hash: sha256:c7581aab7628808190e3706558ceabfbca6699806f0187166dd84769860a0162
