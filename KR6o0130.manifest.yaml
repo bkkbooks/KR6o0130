@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0130_000.yaml, hash: 'sha256:e70e31e9d9df4925ab0ded73a031bba50cf1d7f32ac17ac9cda046dc33e461b0'}
-  - {seq: 1, filename: KR6o0130_001.yaml, hash: 'sha256:fc013ae67aaf638616998d2a9fb7efd1ad46b43a244d628b0cd2f7df356497f4'}
+  - {seq: 1, filename: KR6o0130_001.yaml, hash: 'sha256:55e15e305a4b61741ccacfb77cb534e54995e748461873ed3a40457ccf03f96f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0130_001.markers.yaml, hash: 'sha256:5b3a28bf4687b650163ab76e2bc6600d6fbe25dd788db7ca5c4203b696e312b1'}
+  - {seq: 0, role: markers, filename: assets/KR6o0130_000.markers.yaml, hash: 'sha256:ab4314b520c1bdee9483aaec34b82d58a76476fc303788c598c6ef4db3b99ecc'}
+  - {seq: 1, role: markers, filename: assets/KR6o0130_001.markers.yaml, hash: 'sha256:ebfffad1204ab70da05ad76ea4347fc6aedaa00edbf42b53f7e9c3fa9556c3ce'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 讚法界頌
   type: juan
   level: 1
-hash: sha256:cc373d5083b26bfaa1e1c33a686cebd6dcb1a0ff13e837a3386b1491dd88db49
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:91f41cca8997abe2d947d005e981a4baf482abcbe1dced3bf5e596808c442f85
